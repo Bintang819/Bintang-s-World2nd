@@ -1,7 +1,7 @@
 body {
-    background-color: #8B0000;
+    background-color: #00FFFF;
     font-family: "Times New Roman", Times, serif; 
-    color: #3c3c3c;
+    color: #000000;
     margin: 0;
     padding: 20px;
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .kartu-profil h1 {
-    color: #ff1e7d;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -43,5 +43,5 @@ body {
 }
 
 .kartu-profil button:hover {
-    background-color: #8B0000;
+    background-color: #000080;
 }
